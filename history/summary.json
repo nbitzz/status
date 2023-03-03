@@ -1,42 +1,60 @@
 [
   {
-    "name": "fyle.uk",
+    "name": "Site",
     "url": "https://fyle.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fyle.uk.ico",
-    "slug": "fyle-uk",
+    "slug": "site",
     "status": "down",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
+    "uptime": "26.04%",
+    "uptimeDay": "26.04%",
+    "uptimeWeek": "26.04%",
+    "uptimeMonth": "26.04%",
+    "uptimeYear": "26.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-03": 4
+      "2023-03-03": 0
     }
   },
   {
-    "name": "fyle.uk beta",
-    "url": "https://beta.fyle.uk",
-    "icon": "https://icons.duckduckgo.com/ip3/beta.fyle.uk.ico",
-    "slug": "fyle-uk-beta",
+    "name": "File access",
+    "url": "https://fyle.uk/file/fish",
+    "icon": "https://icons.duckduckgo.com/ip3/fyle.uk.ico",
+    "slug": "file-access",
     "status": "down",
-    "uptime": "1.33%",
-    "uptimeDay": "1.33%",
-    "uptimeWeek": "1.33%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "1.33%",
+    "uptime": "36.36%",
+    "uptimeDay": "36.36%",
+    "uptimeWeek": "36.36%",
+    "uptimeMonth": "36.36%",
+    "uptimeYear": "36.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-03": 4
+      "2023-03-03": 0
     }
+  },
+  {
+    "name": "Mastodon server",
+    "url": "https://so.fyle.uk/",
+    "icon": "https://icons.duckduckgo.com/ip3/so.fyle.uk.ico",
+    "slug": "mastodon-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
+    "dailyMinutesDown": {}
   }
 ]
