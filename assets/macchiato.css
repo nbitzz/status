@@ -6,13 +6,13 @@
   --nav-border-bottom-color: #494d64;
   --nav-current-border-bottom-color: #91d7e3;
   --card-border-color: #494d64;
-  --down-border-left-color: #d20f39;
-  --down-background-color: #ed8796;
+  --down-border-left-color: #ed8796;
+  --down-background-color: #703941;
   --degraded-border-left-color: #eed49f;
   --up-border-left-color: #a6da95;
   --tag-color: #24273a;
   --tag-up-background-color: #a6da95;
-  --tag-down-background-color: #d20f39;
+  --tag-down-background-color: #ed8796;
   --tag-degraded-background-color: #eed49f;
   --change-background-color: #eed49f;
   --error-button-border-color: #494d64;
