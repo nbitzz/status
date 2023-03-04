@@ -13,6 +13,12 @@ sites:
   - name: File access
     url: https://fyle.uk/file/fish
     maxResponseTime: 2000
+  - name: Site (beta)
+    url: https://beta.fyle.uk
+    maxResponseTime: 1200
+  - name: File access (beta)
+    url: https://beta.fyle.uk/file/fish
+    maxResponseTime: 2000
   - name: Mastodon server
     url: https://so.fyle.uk/
 
