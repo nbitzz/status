@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 333,
+      "2023-03-04": 422,
       "2023-03-03": 21
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 292
+      "2023-03-04": 381
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 333,
+      "2023-03-04": 422,
       "2023-03-03": 21
     }
   },
@@ -67,18 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/so.fyle.uk.ico",
     "slug": "mastodon-server",
     "status": "up",
-    "uptime": "96.56%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "96.56%",
-    "time": 291,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
-    "dailyMinutesDown": {
-      "2023-03-04": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
+    "dailyMinutesDown": {}
   }
 ]
