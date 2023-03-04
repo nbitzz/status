@@ -8,7 +8,7 @@ sites:
     maxResponseTime: 1200
   - name: Basic API
     url: https://fyle.uk/server
-    icon: https://fyle.uk/file/23233072126561183
+    icon: https://monofile.glitch.me/file/23233072126561183
     maxResponseTime: 1200
   - name: File access
     url: https://fyle.uk/file/fish
@@ -23,7 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/nbitzz/monofile/1.3.0/assets/icons/icon_temp.svg
   # grrrr.... upptime....
-  themeUrl: https://status.fyle.uk/themes/macchiato.css
+  themeUrl: https://monofile.glitch.me/file/26945874646066836
   name: fyle.uk
   introTitle: "**monofile** @ fyle.uk"
   introMessage: The open source, Discord-based file sharing service
