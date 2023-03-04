@@ -22,6 +22,7 @@ status-website:
   cname: status.fyle.uk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/nbitzz/monofile/1.3.0/assets/icons/icon_temp.svg
+  themeUrl: https://status.fyle.uk/macchiato.css
   name: fyle.uk
   introTitle: "**monofile** @ fyle.uk"
   introMessage: The open source, Discord-based file sharing service
