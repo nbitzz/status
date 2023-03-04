@@ -25,8 +25,8 @@ status-website:
   # grrrr.... upptime....
   themeUrl: https://monofile.glitch.me/file/26945874646066836
   name: fyle.uk
-  introTitle: "**monofile** @ fyle.uk"
-  introMessage: The open source, Discord-based file sharing service
+  introTitle: "fyle.uk"
+  introMessage: The open source, Discord-based file sharing service *(and a few other things)*
   navbar:
     - title: Stable
       href: https://fyle.uk
