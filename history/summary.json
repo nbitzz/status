@@ -1,22 +1,22 @@
 [
   {
     "name": "Site",
-    "url": "https://fyle.uk",
+    "url": "http://fyle.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fyle.uk.ico",
     "slug": "site",
-    "status": "down",
-    "uptime": "0.36%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
-    "time": 433,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "status": "up",
+    "uptime": "0.37%",
+    "uptimeDay": "0.47%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
+    "time": 409,
+    "timeDay": 409,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2023-03-05": 354,
+      "2023-03-05": 356,
       "2023-03-04": 1440,
       "2023-03-03": 21
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-05": 361,
+      "2023-03-05": 362,
       "2023-03-04": 1399
     }
   },
@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-05": 361,
+      "2023-03-05": 362,
       "2023-03-04": 1440,
       "2023-03-03": 21
     }
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-05": 361,
+      "2023-03-05": 362,
       "2023-03-04": 999
     }
   },
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-05": 361,
+      "2023-03-05": 362,
       "2023-03-04": 999
     }
   },
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 277,
-    "timeWeek": 284,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "time": 279,
+    "timeDay": 269,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
