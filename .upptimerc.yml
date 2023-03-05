@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Site
-    url: https://fyle.uk
+    url: http://fyle.uk
     maxResponseTime: 1200
   - name: Basic API
     url: https://fyle.uk/server
@@ -15,10 +15,6 @@ sites:
     maxResponseTime: 2000
   - name: Site (beta)
     url: https://beta.fyle.uk
-  - name: Basic API (beta)
-    url: https://beta.fyle.uk/server
-    icon: https://monofile.glitch.me/file/23233072126561183
-    maxResponseTime: 2000
   - name: File access (beta)
     url: https://beta.fyle.uk/file/fish
     maxResponseTime: 2000
