@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Site
-    url: http://fyle.uk
+    url: https://fyle.uk
     maxResponseTime: 1200
   - name: Basic API
     url: https://fyle.uk/server
