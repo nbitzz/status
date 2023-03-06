@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fyle.uk.ico",
     "slug": "site",
     "status": "down",
-    "uptime": "0.26%",
+    "uptime": "0.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 409,
     "timeDay": 0,
     "timeWeek": 409,
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2023-03-06": 1245,
+      "2023-03-06": 1256,
       "2023-03-05": 1429,
       "2023-03-04": 1440,
       "2023-03-03": 21
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 1245,
+      "2023-03-06": 1256,
       "2023-03-05": 1440,
       "2023-03-04": 1399
     }
@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 1245,
+      "2023-03-06": 1256,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 21
@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 1245,
+      "2023-03-06": 1256,
       "2023-03-05": 1440,
       "2023-03-04": 999
     }
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 1245,
+      "2023-03-06": 1256,
       "2023-03-05": 1440,
       "2023-03-04": 999
     }
@@ -116,19 +116,19 @@
     "url": "https://so.fyle.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/so.fyle.uk.ico",
     "slug": "mastodon-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 476,
-    "timeWeek": 288,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 296,
+    "timeDay": 469,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2023-03-06": 0
+      "2023-03-06": 11
     }
   }
 ]
