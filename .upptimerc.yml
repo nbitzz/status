@@ -21,6 +21,9 @@ sites:
   - name: Mastodon server
     url: https://so.fyle.uk/
     maxResponseTime: 1000
+  - name: theUnfunny
+    url: https://unfunny.glitch.me/
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
