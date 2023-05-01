@@ -1,7 +1,7 @@
 url: https://so.fyle.uk/
-status: up
-code: 200
-responseTime: 472
-lastUpdated: 2023-05-01T23:16:36.293Z
+status: down
+code: 500
+responseTime: 100
+lastUpdated: 2023-05-01T23:28:40.949Z
 startTime: Fri Mar 03 2023 23:39:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
