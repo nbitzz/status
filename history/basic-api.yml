@@ -1,7 +1,7 @@
 url: https://fyle.uk/server
-status: down
+status: degraded
 code: 404
-responseTime: 191
-lastUpdated: 2023-05-21T23:00:54.831Z
+responseTime: 1398
+lastUpdated: 2023-05-22T18:23:32.140Z
 startTime: Sat Mar 04 2023 00:40:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
