@@ -1,7 +1,7 @@
 url: https://beta.fyle.uk
-status: up
-code: 200
-responseTime: 268
-lastUpdated: 2023-05-24T23:00:50.381Z
+status: down
+code: 503
+responseTime: 484
+lastUpdated: 2023-05-25T22:07:54.312Z
 startTime: Sat Mar 04 2023 07:21:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
