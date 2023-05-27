@@ -1,7 +1,7 @@
 url: https://beta.fyle.uk/file/fish
-status: up
+status: degraded
 code: 200
-responseTime: 859
-lastUpdated: 2023-05-27T14:07:30.888Z
+responseTime: 13769
+lastUpdated: 2023-05-27T14:35:40.998Z
 startTime: Sat Mar 04 2023 07:21:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
