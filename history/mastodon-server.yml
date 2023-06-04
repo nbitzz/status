@@ -1,7 +1,7 @@
 url: https://so.fyle.uk/
-status: degraded
+status: down
 code: 500
-responseTime: 16102
-lastUpdated: 2023-06-04T20:47:58.698Z
+responseTime: 36
+lastUpdated: 2023-06-04T20:59:27.251Z
 startTime: Fri Mar 03 2023 23:39:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
