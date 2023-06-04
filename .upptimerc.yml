@@ -25,7 +25,7 @@ sites:
     url: https://ssh.fyle.uk/
     maxResponseTime: 1000
   - name: Bore
-    url: https://tunnel.fyle.uk:7835/
+    url: http://tunnel.fyle.uk:7835/
   - name: theUnfunny
     url: https://unfunny.glitch.me/
     maxResponseTime: 1000
