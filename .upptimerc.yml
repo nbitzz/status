@@ -25,7 +25,9 @@ sites:
     url: https://ssh.fyle.uk/
     maxResponseTime: 1000
   - name: Bore
-    url: http://tunnel.fyle.uk:7835/
+    check: "tcp-ping"
+    url: tunnel.fyle.uk
+    port: 7835
   - name: theUnfunny
     url: https://unfunny.glitch.me/
     maxResponseTime: 1000
