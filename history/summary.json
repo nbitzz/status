@@ -307,19 +307,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bore",
     "status": "up",
-    "uptime": "3.90%",
-    "uptimeDay": "3.90%",
-    "uptimeWeek": "3.90%",
-    "uptimeMonth": "3.90%",
-    "uptimeYear": "3.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 17,
     "timeDay": 17,
     "timeWeek": 17,
     "timeMonth": 17,
     "timeYear": 17,
-    "dailyMinutesDown": {
-      "2023-06-04": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "theUnfunny",
