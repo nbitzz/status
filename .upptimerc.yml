@@ -21,6 +21,11 @@ sites:
   - name: Mastodon server
     url: https://so.fyle.uk/
     maxResponseTime: 1000
+  - name: Sshwifty
+    url: https://ssh.fyle.uk/
+    maxResponseTime: 1000
+  - name: Bore
+    url: https://tunnel.fyle.uk:7835/
   - name: theUnfunny
     url: https://unfunny.glitch.me/
     maxResponseTime: 1000
