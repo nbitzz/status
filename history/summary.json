@@ -44,7 +44,7 @@
     "timeMonth": 197,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-06-28": 365,
+      "2023-06-28": 403,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -223,18 +223,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.fyle.uk.ico",
     "slug": "file-access-beta",
     "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "97.65%",
+    "uptime": "97.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "97.64%",
     "time": 2512,
     "timeDay": 518,
     "timeWeek": 1183,
-    "timeMonth": 1869,
+    "timeMonth": 1865,
     "timeYear": 2512,
     "dailyMinutesDown": {
-      "2023-06-28": 10,
       "2023-06-07": 16,
       "2023-06-04": 17,
       "2023-05-30": 55,
@@ -246,7 +245,7 @@
       "2023-05-24": 688,
       "2023-05-23": 739,
       "2023-05-22": 454,
-      "2023-05-21": 206
+      "2023-05-21": 235
     }
   },
   {
@@ -255,18 +254,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/so.fyle.uk.ico",
     "slug": "mastodon-server",
     "status": "down",
-    "uptime": "50.54%",
+    "uptime": "50.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.54%",
+    "uptimeYear": "50.53%",
     "time": 998,
     "timeDay": 335,
     "timeWeek": 322,
     "timeMonth": 728,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-06-28": 365,
+      "2023-06-28": 403,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -375,9 +374,9 @@
     "url": "https://unfunny.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/unfunny.glitch.me.ico",
     "slug": "the-unfunny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -386,6 +385,8 @@
     "timeWeek": 364,
     "timeMonth": 301,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-28": 0
+    }
   }
 ]
