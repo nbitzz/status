@@ -44,7 +44,7 @@
     "timeMonth": 228,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-06-28": 1139,
+      "2023-06-28": 1148,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -265,7 +265,7 @@
     "timeMonth": 728,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-06-28": 1139,
+      "2023-06-28": 1148,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -374,19 +374,19 @@
     "url": "https://unfunny.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/unfunny.glitch.me.ico",
     "slug": "the-unfunny",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 306,
-    "timeDay": 292,
-    "timeWeek": 349,
-    "timeMonth": 299,
-    "timeYear": 306,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 304,
+    "timeDay": 235,
+    "timeWeek": 324,
+    "timeMonth": 294,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-06-28": 16
+      "2023-06-28": 25
     }
   }
 ]
