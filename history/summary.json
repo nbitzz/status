@@ -45,7 +45,7 @@
     "timeMonth": 464,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-07-23": 1020,
+      "2023-07-23": 1031,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -194,9 +194,9 @@
     "url": "https://fyle.uk/file/fish",
     "icon": "https://icons.duckduckgo.com/ip3/fyle.uk.ico",
     "slug": "file-access",
-    "status": "up",
+    "status": "down",
     "uptime": "97.03%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "97.03%",
@@ -206,6 +206,7 @@
     "timeMonth": 866,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2023-07-23": 0,
       "2023-07-13": 69,
       "2023-06-01": 21,
       "2023-05-02": 18,
@@ -250,18 +251,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.fyle.uk.ico",
     "slug": "file-access-beta",
     "status": "up",
-    "uptime": "98.08%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.08%",
+    "uptime": "98.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.07%",
     "time": 2404,
     "timeDay": 849,
     "timeWeek": 649,
     "timeMonth": 761,
     "timeYear": 2404,
     "dailyMinutesDown": {
-      "2023-07-23": 5,
       "2023-06-07": 16,
       "2023-06-04": 17,
       "2023-05-30": 55,
@@ -273,7 +273,7 @@
       "2023-05-24": 688,
       "2023-05-23": 739,
       "2023-05-22": 454,
-      "2023-05-21": 206
+      "2023-05-21": 235
     }
   },
   {
@@ -293,7 +293,7 @@
     "timeMonth": 287,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2023-07-23": 1020,
+      "2023-07-23": 1031,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
