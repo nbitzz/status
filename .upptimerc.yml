@@ -18,9 +18,12 @@ sites:
   - name: File access (beta)
     url: https://beta.fyle.uk/file/fish
     maxResponseTime: 2000
-  - name: Mastodon server
-    url: https://so.fyle.uk/
-    maxResponseTime: 1000
+  - name: coolviruses.download Firefish
+    url: https://coolviruses.download/
+    maxResponseTime: 2000
+  - name: fedi.fnaf.stream
+    url: https://helloeverybodymynameismarkiplierandwelcometofivenightsatfreddys.anindiehorrorgamethatyouguyssuggestedenmasseandisawthatyamimash.playeditandhesaidthatitwasreallyreallygoodsoimveryeagertoseewha.tisupandthatisaterrifyinganimatronicbear.fnaf.stream/
+    maxResponseTime: 3000
   - name: Sshwifty
     url: https://ssh.fyle.uk/
     maxResponseTime: 1000
