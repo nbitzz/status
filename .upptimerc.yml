@@ -34,6 +34,8 @@ sites:
   - name: theUnfunny
     url: https://unfunny.glitch.me/
     maxResponseTime: 1000
+  - name: Jellyfin
+    url: https://jelly.fyle.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
