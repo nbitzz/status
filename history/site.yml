@@ -1,7 +1,7 @@
 url: https://fyle.uk
-status: up
-code: 200
-responseTime: 195
-lastUpdated: 2023-09-10T23:00:35.902Z
+status: degraded
+code: 503
+responseTime: 15541
+lastUpdated: 2023-09-11T01:59:38.460Z
 startTime: 2023-03-03T23:39:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
