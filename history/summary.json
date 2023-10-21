@@ -304,18 +304,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.fyle.uk.ico",
     "slug": "file-access-beta",
     "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "98.56%",
+    "uptime": "98.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "98.55%",
     "time": 2189,
     "timeDay": 1927,
     "timeWeek": 2004,
     "timeMonth": 1250,
     "timeYear": 2189,
     "dailyMinutesDown": {
-      "2023-10-20": 8,
       "2023-10-16": 26,
       "2023-10-03": 16,
       "2023-09-16": 40,
@@ -334,7 +333,7 @@
       "2023-05-25": 296,
       "2023-05-24": 688,
       "2023-05-23": 739,
-      "2023-05-22": 211
+      "2023-05-22": 249
     }
   },
   {
