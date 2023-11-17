@@ -6,10 +6,6 @@ sites:
   - name: Site
     url: https://fyle.uk
     maxResponseTime: 1200
-  - name: Basic API
-    url: https://fyle.uk/server
-    icon: https://monofile.glitch.me/file/23233072126561183
-    maxResponseTime: 1200
   - name: File access
     url: https://fyle.uk/file/fish
     maxResponseTime: 2000
