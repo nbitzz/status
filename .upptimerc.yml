@@ -36,6 +36,8 @@ sites:
     maxResponseTime: 1000
   - name: Jellyfin
     url: https://jelly.fyle.uk/
+  - name: "split's computer (lol)"
+    url: https://me.fyle.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
