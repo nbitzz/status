@@ -51,8 +51,6 @@ status-website:
       href: https://fyle.uk
     - title: Beta
       href: https://beta.fyle.uk
-    - title: Mastodon
-      href: https://so.fyle.uk
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
