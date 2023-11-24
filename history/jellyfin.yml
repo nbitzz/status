@@ -1,7 +1,7 @@
 url: https://jelly.fyle.uk/
-status: up
-code: 200
-responseTime: 736
-lastUpdated: 2023-11-24T11:51:43.145Z
+status: down
+code: 502
+responseTime: 21853
+lastUpdated: 2023-11-24T15:02:50.305Z
 startTime: 2023-09-11T12:21:04.361Z
 generator: Upptime <https://github.com/upptime/upptime>
