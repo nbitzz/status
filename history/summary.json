@@ -282,18 +282,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/me.fyle.uk.ico",
     "slug": "split-s-computer-lol",
     "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
+    "uptime": "98.66%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 556,
     "timeDay": 413,
     "timeWeek": 497,
     "timeMonth": 556,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-12-02": 32,
+      "2023-12-02": 22,
       "2023-11-26": 284
     }
   }
