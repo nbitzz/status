@@ -1,7 +1,7 @@
 url: https://ssh.fyle.uk/
-status: up
+status: degraded
 code: 200
-responseTime: 78
-lastUpdated: 2024-05-20T23:00:26.488Z
+responseTime: 2849
+lastUpdated: 2024-05-21T13:51:06.788Z
 startTime: 2023-06-04T23:32:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
