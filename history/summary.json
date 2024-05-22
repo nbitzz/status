@@ -292,7 +292,7 @@
     "url": "https://unfunny.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/unfunny.glitch.me.ico",
     "slug": "the-unfunny",
-    "status": "degraded",
+    "status": "down",
     "uptime": "91.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -304,7 +304,7 @@
     "timeMonth": 16294,
     "timeYear": 5894,
     "dailyMinutesDown": {
-      "2024-05-22": 945,
+      "2024-05-22": 954,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -372,7 +372,7 @@
     "timeMonth": 165,
     "timeYear": 3151,
     "dailyMinutesDown": {
-      "2024-05-22": 945,
+      "2024-05-22": 954,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
