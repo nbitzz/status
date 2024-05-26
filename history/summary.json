@@ -161,7 +161,7 @@
     "timeDay": 280,
     "timeWeek": 532,
     "timeMonth": 615,
-    "timeYear": 1428,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2024-05-04": 17,
       "2024-04-04": 178,
@@ -199,8 +199,7 @@
       "2023-06-04": 17,
       "2023-05-30": 55,
       "2023-05-29": 173,
-      "2023-05-28": 357,
-      "2023-05-27": 469
+      "2023-05-28": 357
     }
   },
   {
@@ -293,14 +292,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.72%",
+    "uptimeYear": "89.71%",
     "time": 5689,
-    "timeDay": 13558,
+    "timeDay": 13395,
     "timeWeek": 14319,
     "timeMonth": 15753,
     "timeYear": 6243,
     "dailyMinutesDown": {
-      "2024-05-25": 1410,
+      "2024-05-26": 8,
+      "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -371,7 +371,8 @@
     "timeMonth": 170,
     "timeYear": 3120,
     "dailyMinutesDown": {
-      "2024-05-25": 1410,
+      "2024-05-26": 8,
+      "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
@@ -514,11 +515,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/me.fyle.uk.ico",
     "slug": "split-s-computer-lol",
     "status": "up",
-    "uptime": "56.23%",
+    "uptime": "56.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.23%",
+    "uptimeYear": "56.24%",
     "time": 760,
     "timeDay": 305,
     "timeWeek": 313,
