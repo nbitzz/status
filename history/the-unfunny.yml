@@ -1,7 +1,7 @@
 url: https://unfunny.glitch.me/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-02T10:34:19.673Z
+status: degraded
+code: 503
+responseTime: 2102
+lastUpdated: 2024-06-02T11:55:21.696Z
 startTime: 2023-03-25T23:29:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
