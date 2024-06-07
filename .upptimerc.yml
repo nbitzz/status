@@ -9,11 +9,11 @@ sites:
   - name: File access
     url: https://fyle.uk/file/fish
     maxResponseTime: 2000
-  - name: Site (beta)
-    url: https://beta.fyle.uk
-  - name: File access (beta)
-    url: https://beta.fyle.uk/file/fish
-    maxResponseTime: 2000
+#  - name: Site (beta)
+#    url: https://beta.fyle.uk
+#  - name: File access (beta)
+#    url: https://beta.fyle.uk/file/fish
+#    maxResponseTime: 2000
   - name: coolviruses.download Firefish
     url: https://coolviruses.download/
     maxResponseTime: 2000
@@ -27,18 +27,22 @@ sites:
     check: "tcp-ping"
     url: tunnel.fyle.uk
     port: 7835
-  - name: theUnfunny
-    url: https://unfunny.glitch.me/
-    maxResponseTime: 1000
+#  - name: theUnfunny
+#    url: https://unfunny.glitch.me/
+#    maxResponseTime: 1000
   - name: Jellyfin
     url: https://jelly.fyle.uk/
+  - name: Authentik
+    url: https://id.split.pet/
+  - name: Vaultwarden
+    url: https://vault.split.pet/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fyle.uk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/nbitzz/monofile/1.3.0/assets/icons/icon_temp.svg
+  logoUrl: https://raw.githubusercontent.com/nbitzz/monofile/main/assets/monofileLogo.svg
   # grrrr.... upptime....
   themeUrl: https://monofile.glitch.me/file/26945874646066836
   name: fyle.uk
