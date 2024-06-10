@@ -204,7 +204,7 @@
     "uptime": "52.64%",
     "uptimeDay": "85.72%",
     "uptimeWeek": "97.96%",
-    "uptimeMonth": "23.37%",
+    "uptimeMonth": "23.39%",
     "uptimeYear": "52.64%",
     "time": 3000,
     "timeDay": 3705,
@@ -381,19 +381,19 @@
     "url": "https://vault.split.pet/",
     "icon": "https://icons.duckduckgo.com/ip3/vault.split.pet.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 381,
-    "timeDay": 311,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 357,
+    "timeDay": 287,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-06-10": 3
+      "2024-06-10": 9
     }
   }
 ]
