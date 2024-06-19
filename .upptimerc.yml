@@ -36,6 +36,8 @@ sites:
     url: https://id.split.pet/
   - name: Vaultwarden
     url: https://vault.split.pet/
+  - name: Forgejo
+    url: https://git.sucks.win/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
