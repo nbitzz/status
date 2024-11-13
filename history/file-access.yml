@@ -1,7 +1,7 @@
 url: https://fyle.uk/file/fish
-status: up
-code: 200
-responseTime: 435
-lastUpdated: 2024-11-12T23:00:24.325Z
+status: down
+code: 503
+responseTime: 124
+lastUpdated: 2024-11-13T04:06:32.961Z
 startTime: 2023-03-03T23:39:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
