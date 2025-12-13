@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-12-13": 432,
+      "2025-12-13": 458,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -199,14 +199,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.63%",
+    "uptimeYear": "54.62%",
     "time": 683,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2025-12-13": 432,
+      "2025-12-13": 458,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -417,7 +417,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.48%",
+    "uptimeYear": "66.49%",
     "time": 406,
     "timeDay": 318,
     "timeWeek": 407,
@@ -569,7 +569,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 432,
+      "2025-12-13": 458,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -1076,19 +1076,19 @@
     "url": "https://git.sucks.win/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sucks.win.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "88.25%",
-    "uptimeDay": "83.22%",
-    "uptimeWeek": "96.40%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "96.37%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "82.57%",
-    "time": 2985,
+    "time": 2989,
     "timeDay": 11739,
     "timeWeek": 9203,
     "timeMonth": 5031,
     "timeYear": 2972,
     "dailyMinutesDown": {
-      "2025-12-13": 173,
+      "2025-12-13": 176,
       "2025-12-12": 129,
       "2025-12-11": 31,
       "2025-12-10": 31,
@@ -1177,7 +1177,7 @@
       "2024-12-23": 812,
       "2024-12-22": 169,
       "2024-12-21": 160,
-      "2024-12-20": 40
+      "2024-12-20": 22
     }
   }
 ]
