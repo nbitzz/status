@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2026-01-09": 366,
+      "2026-01-09": 380,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -231,7 +231,7 @@
     "timeMonth": 0,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2026-01-09": 366,
+      "2026-01-09": 380,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -463,10 +463,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/helloeverybodymynameismarkiplierandwelcometofivenightsatfreddys.anindiehorrorgamethatyouguyssuggestedenmasseandisawthatyamimash.playeditandhesaidthatitwasreallyreallygoodsoimveryeagertoseewha.tisupandthatisaterrifyinganimatronicbear.fnaf.stream.ico",
     "slug": "fedi-fnaf-stream",
     "status": "down",
-    "uptime": "82.26%",
+    "uptime": "82.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.50%",
+    "uptimeMonth": "73.47%",
     "uptimeYear": "64.28%",
     "time": 408,
     "timeDay": 0,
@@ -474,7 +474,7 @@
     "timeMonth": 432,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2026-01-09": 366,
+      "2026-01-09": 380,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -628,7 +628,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 366,
+      "2026-01-09": 380,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
@@ -1135,19 +1135,19 @@
     "url": "https://git.sucks.win/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sucks.win.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "93.75%",
-    "uptimeDay": "48.47%",
-    "uptimeWeek": "66.11%",
+    "uptimeDay": "48.28%",
+    "uptimeWeek": "66.08%",
     "uptimeMonth": "88.58%",
     "uptimeYear": "90.27%",
-    "time": 4088,
+    "time": 4089,
     "timeDay": 8690,
     "timeWeek": 12256,
     "timeMonth": 10450,
     "timeYear": 4108,
     "dailyMinutesDown": {
-      "2026-01-09": 346,
+      "2026-01-09": 349,
       "2026-01-08": 396,
       "2026-01-07": 1277,
       "2026-01-06": 378,
@@ -1215,7 +1215,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1322
+      "2025-01-24": 1285
     }
   }
 ]
