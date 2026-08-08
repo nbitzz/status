@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1138,
+      "2026-08-08": 1170,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1138,
+      "2026-08-08": 1170,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -797,7 +797,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.81%",
+    "uptimeYear": "36.80%",
     "time": 395,
     "timeDay": 0,
     "timeWeek": 0,
@@ -876,7 +876,7 @@
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1162,
-      "2026-08-08": 1138,
+      "2026-08-08": 1170,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1044,7 +1044,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssh.fyle.uk.ico",
     "slug": "sshwifty",
     "status": "down",
-    "uptime": "33.10%",
+    "uptime": "33.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1138,
+      "2026-08-08": 1171,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1525,17 +1525,17 @@
     "url": "https://git.sucks.win/",
     "icon": "https://icons.duckduckgo.com/ip3/git.sucks.win.ico",
     "slug": "forgejo",
-    "status": "down",
+    "status": "up",
     "uptime": "76.94%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "25.94%",
     "uptimeYear": "50.83%",
-    "time": 4572,
-    "timeDay": 1709,
-    "timeWeek": 1324,
-    "timeMonth": 433,
-    "timeYear": 5827,
+    "time": 4625,
+    "timeDay": 14117,
+    "timeWeek": 5503,
+    "timeMonth": 1600,
+    "timeYear": 5888,
     "dailyMinutesDown": {
       "2025-08-28": 113,
       "2025-08-30": 345,
@@ -1746,7 +1746,7 @@
       "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
-      "2026-08-08": 3
+      "2026-08-08": 32
     }
   }
 ]
